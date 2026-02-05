@@ -1,0 +1,45 @@
+{
+  "versie": 1,
+  "items": [
+    {
+      "afbeelding": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/blussen.png",
+      "audio": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/blussen.webm",
+      "naam": "blussen"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de brandweer.png",
+      "audio": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de brandweer.webm",
+      "naam": "de brandweer"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de brandweerwagen.png",
+      "audio": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de brandweerwagen.webm",
+      "naam": "de brandweerwagen"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de helm.png",
+      "audio": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de helm.webm",
+      "naam": "de helm"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/het alarm.png",
+      "audio": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/het alarm.webm",
+      "naam": "het alarm"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/het vuur.png",
+      "audio": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/het vuur.webm",
+      "naam": "het vuur"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de rook.png",
+      "audio": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de rook.webm",
+      "naam": "de rook"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de waterslang.png",
+      "audio": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de waterslang.webm",
+      "naam": "de waterslang"
+    }
+  ]
+}
