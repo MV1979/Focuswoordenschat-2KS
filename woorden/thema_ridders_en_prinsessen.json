@@ -1,0 +1,40 @@
+{
+  "versie": 1,
+  "items": [
+    {
+      "afbeelding": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de gevangenis.png",
+      "audio": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de gevangenis.webm",
+      "naam": "de gevangenis"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de toren.png",
+      "audio": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de toren.webm",
+      "naam": "de toren"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de vuurspuwende draak.png",
+      "audio": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de vuurspuwende draak.webm",
+      "naam": "de vuurspuwende draak"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/het harnas.png",
+      "audio": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/het harnas.webm",
+      "naam": "het harnas"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/het kasteel.png",
+      "audio": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/het kasteel.webm",
+      "naam": "het kasteel"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/het schild.png",
+      "audio": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/het schild.webm",
+      "naam": "het schild"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/het zwaard.png",
+      "audio": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/het zwaard.webm",
+      "naam": "het zwaard"
+    }
+  ]
+}
