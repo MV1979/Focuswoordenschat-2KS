@@ -1,0 +1,45 @@
+{
+  "versie": 1,
+  "items": [
+    {
+      "afbeelding": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de piraat.png",
+      "audio": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de piraat.webm",
+      "naam": "de piraat"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de piratenhoed.png",
+      "audio": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de piratenhoed.webm",
+      "naam": "de piratenhoed"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de schatkaart.png",
+      "audio": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de schatkaart.webm",
+      "naam": "de schatkaart"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de schatkist.png",
+      "audio": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de schatkist.webm",
+      "naam": "de schatkist"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de verrekijker.png",
+      "audio": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de verrekijker.webm",
+      "naam": "de verrekijker"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de vlag.png",
+      "audio": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de vlag.webm",
+      "naam": "de vlag"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/het ooglapje.png",
+      "audio": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/het ooglapje.webm",
+      "naam": "het ooglapje"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/het schip.png",
+      "audio": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/het schip.webm",
+      "naam": "het schip"
+    }
+  ]
+}
