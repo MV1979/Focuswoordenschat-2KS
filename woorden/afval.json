@@ -1,0 +1,45 @@
+{
+  "versie": 1,
+  "items": [
+    {
+      "afbeelding": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de container.png",
+      "audio": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de container.webm",
+      "naam": "de container"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de vuilbak.png",
+      "audio": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de vuilbak.webm",
+      "naam": "de vuilbak"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/het afval.png",
+      "audio": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/het afval.webm",
+      "naam": "het afval"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/het gft.png",
+      "audio": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/het gft.webm",
+      "naam": "het gft"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/het pmd.png",
+      "audio": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/het pmd.webm",
+      "naam": "het pmd"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/sorteren.png",
+      "audio": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/sorteren.webm",
+      "naam": "sorteren"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/het papier en karton.png",
+      "audio": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/het papier en karton.webm",
+      "naam": "het papier en karton"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/het restafval.png",
+      "audio": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/het restafval.webm",
+      "naam": "het restafval"
+    }
+  ]
+}
