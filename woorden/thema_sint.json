@@ -1,0 +1,45 @@
+{
+  "versie": 1,
+  "items": [
+    {
+      "afbeelding": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de mandarijn.png",
+      "audio": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de mandarijn.webm",
+      "naam": "de mandarijn"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de mijter.png",
+      "audio": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de mijter.webm",
+      "naam": "de mijter"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de muts.png",
+      "audio": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de muts.webm",
+      "naam": "de muts"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de pantoffels.png",
+      "audio": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de pantoffels.webm",
+      "naam": "de pantoffels"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de pepernoten.png",
+      "audio": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de pepernoten.webm",
+      "naam": "de pepernoten"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de staf.png",
+      "audio": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de staf.webm",
+      "naam": "de staf"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de stoomboot.png",
+      "audio": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/de stoomboot.webm",
+      "naam": "de stoomboot"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/strooien.png",
+      "audio": "https://raw.githubusercontent.com/MV1979/Focuswoordenschat-2KS/main/woorden/strooien.webm",
+      "naam": "strooien"
+    }
+  ]
+}
